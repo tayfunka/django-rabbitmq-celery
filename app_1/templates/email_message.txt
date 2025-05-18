@@ -1,0 +1,7 @@
+Hello {{name|safe}}!
+
+Here is a copy of your message:
+
+{{review|safe}}
+
+Thank you!
