@@ -1,2 +1,2 @@
 # django-rabbitmq-celery
-The use of celery and RabbitMQ within Django
+This project demonstrates the use of Celery and RabbitMQ within Django for asynchronous task processing, periodic background jobs, caching with Django’s cache framework, and real-time task monitoring with Flower.
